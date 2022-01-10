@@ -1,6 +1,6 @@
 # Olá, eu sou o Joel Gomes!
 
-![Status no Github](https://github-readme-stats.vercel.app/api?username=joelgomes1994&show_icons=true&theme=highcontrast) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joelgomes1994&layout=compact&theme=highcontrast)
+![Status no Github](https://github-readme-stats.vercel.app/api?username=joelgomes1994&show_icons=true&theme=default) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joelgomes1994&layout=compact&theme=default)
 
 <div style="display: inline_block">
 
@@ -19,6 +19,6 @@
 </div>
 <hr>
 
-[<img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCKwmu8yGrlTLzm3B0YljFqA)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joelgomes1994/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joelgomesdasilva/) [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:joelgomes1994@hotmail.com)
+[<img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCKwmu8yGrlTLzm3B0YljFqA)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joelgomes1994/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joelgomesdasilva/) [<img src="https://img.shields.io/badge/-email-2EC866?style=for-the-badge&logo=email&logoColor=white" />](mailto:joelgomes1994@hotmail.com)
 
 ![Snake animation](https://github.com/joelgomes1994/joelgomes1994/blob/output/github-contribution-grid-snake.svg)
