@@ -1,6 +1,6 @@
 # Olá, eu sou o Joel Gomes!
 
-![Status no Github](https://github-readme-stats.vercel.app/api?username=joelgomes1994&show_icons=true&theme=default) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joelgomes1994&layout=compact&theme=default)
+![Status no Github](https://github-readme-stats.vercel.app/api?username=joelgomes1994&show_icons=true&theme=vue) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joelgomes1994&layout=compact&theme=vue)
 
 <div style="display: inline_block">
 
