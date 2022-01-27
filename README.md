@@ -1,5 +1,9 @@
 # Olá, eu sou o Joel!
 
+Sou desevolvedor full stack na [Bioage Skincare](https://bioage.com.br/). Também sou desenvolvedor de jogos por hobby, e sou dono do canal 
+[BGEmpire](https://www.youtube.com/c/BGEmpire) no YouTube, que é focado em vídeo aulas sobre programação de jogos em [Python](https://www.python.org/) no 
+[UPBGE](https://upbge.org) e [Blender](https://www.blender.org/).
+
 ![Status no Github](https://github-readme-stats.vercel.app/api?username=joelgomes1994&show_icons=true&theme=default) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joelgomes1994&layout=compact&theme=default)
 
 <div style="display: inline_block">
