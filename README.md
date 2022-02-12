@@ -9,7 +9,7 @@ Sou desevolvedor full stack na [Bioage Skincare](https://bioage.com.br/). També
 <div style="display: inline_block">
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.svg" alt="vuejs" width="40" height="40"/></a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1335026" alt="firebase" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
