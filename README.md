@@ -19,10 +19,11 @@ Sou desevolvedor full stack na [Bioage Skincare](https://bioage.com.br/). També
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://godotengine.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" alt="godot" width="40" height="40"/> </a>
 
 </div>
 <hr>
 
-[<img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCKwmu8yGrlTLzm3B0YljFqA)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joelgomes1994/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joelgomesdasilva/) [<img src="https://img.shields.io/badge/-email-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:joelgomes1994@hotmail.com)
+[<img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCKwmu8yGrlTLzm3B0YljFqA) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joelgomesdasilva/) [<img src="https://img.shields.io/badge/-email-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:joelgomes1994@hotmail.com)
 
 ![Snake animation](https://github.com/joelgomes1994/joelgomes1994/blob/output/github-contribution-grid-snake.svg)
