@@ -1,7 +1,7 @@
 # Olá, eu sou o Joel!
 
 - Desevolvedor full stack na [Bioage Skincare](https://bioage.com.br/).
-- Desenvolvedor de jogos na [Muriki Game Studio](https://github.com/muriki-studio).
+- Desenvolvedor de jogos na [Muriki Game Studio](https://github.com/murikistudio).
 - Dono do canal [BGEmpire](https://www.youtube.com/c/BGEmpire)
 no YouTube (vídeo aulas de programação de jogos em [Python](https://www.python.org/)
 no [UPBGE](https://upbge.org) e [Blender](https://www.blender.org/)).
