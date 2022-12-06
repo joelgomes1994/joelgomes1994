@@ -2,6 +2,7 @@
 
 - Desevolvedor full stack na [Bioage Skincare](https://bioage.com.br/).
 - Desenvolvedor de jogos na [Muriki Game Studio](https://github.com/murikistudio).
+- Dono do canal [BGEmpire](https://www.youtube.com/c/BGEmpire).
 
 ![Status no Github](https://github-readme-stats.vercel.app/api?username=joelgomes1994&show_icons=true&theme=default) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joelgomes1994&layout=compact&theme=default)
 
