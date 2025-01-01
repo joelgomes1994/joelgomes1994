@@ -16,7 +16,7 @@ Full stack developer, game developer and musician.
 <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1335026" alt="firebase" width="40" height="40"/> </a>
-<a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank"> <img src="https://seeklogo.com/images/M/magento-logo-7F3911AE9E-seeklogo.com.png" alt="magento" width="40" height="40"/> </a>
+<a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-magento-3521557-2944975.png" alt="magento" width="40" height="40"/> </a>
 </div>
 <hr>
 
