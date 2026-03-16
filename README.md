@@ -20,5 +20,5 @@ Full stack developer, game developer and musician.
 </div>
 <hr>
 
-[<img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCKwmu8yGrlTLzm3B0YljFqA) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joelgomesdasilva/) [<img src="https://img.shields.io/badge/-email-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:joelgomes1994@hotmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joelgomesdasilva/) [<img src="https://img.shields.io/badge/-email-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:joelgomes1994@hotmail.com)
 
